@@ -1,0 +1,84 @@
+
+/* Class = "UITextField"; placeholder = "Create a New Channel"; ObjectID = "1IX-5z-pi6"; */
+"1IX-5z-pi6.placeholder" = "Create a New Channel";
+
+/* Class = "UILabel"; text = "目前所在位置"; ObjectID = "1b1-a7-sOV"; */
+"1b1-a7-sOV.text" = "目前所在位置";
+
+/* Class = "UILabel"; text = "工作內容"; ObjectID = "2Fj-Ep-GVf"; */
+"2Fj-Ep-GVf.text" = "工作內容";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3tt-YR-FwY"; */
+"3tt-YR-FwY.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "AZH-8B-Or2"; */
+"AZH-8B-Or2.text" = "Title";
+
+/* Class = "UILabel"; text = "統一編號:"; ObjectID = "JRq-94-39l"; */
+"JRq-94-39l.text" = "統一編號:";
+
+/* Class = "UIButton"; normalTitle = "馬上開始"; ObjectID = "K79-4h-Kdx"; */
+"K79-4h-Kdx.normalTitle" = "馬上開始";
+
+/* Class = "UILabel"; text = "薪資範圍"; ObjectID = "Ny7-ef-VNi"; */
+"Ny7-ef-VNi.text" = "薪資範圍";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PNN-vR-EN7"; */
+"PNN-vR-EN7.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "USerNAme"; ObjectID = "RC4-P8-PVc"; */
+"RC4-P8-PVc.placeholder" = "USerNAme";
+
+/* Class = "UIBarButtonItem"; title = "登出"; ObjectID = "RhY-U1-5d4"; */
+"RhY-U1-5d4.title" = "登出";
+
+/* Class = "UILabel"; text = "1. 機構設計相關科系畢\n2. 3年以上3C相關產品設計經驗\n3. 熟悉消費性產品結構設計、射出成型\n4. 熟悉塑膠、五金、橡膠件設計，以及模具材質、結構\n5. 熟Pro/E wildfire\n6. 開朗、負責任\n7.需能配合大陸短期出差"; ObjectID = "VF4-vh-PZb"; */
+"VF4-vh-PZb.text" = "1. 機構設計相關科系畢\n2. 3年以上3C相關產品設計經驗\n3. 熟悉消費性產品結構設計、射出成型\n4. 熟悉塑膠、五金、橡膠件設計，以及模具材質、結構\n5. 熟Pro/E wildfire\n6. 開朗、負責任\n7.需能配合大陸短期出差";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "VHR-xD-NSW"; */
+"VHR-xD-NSW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "WSd-FE-6cX"; */
+"WSd-FE-6cX.text" = "Label";
+
+/* Class = "UILabel"; text = "Really Instant Chat"; ObjectID = "dKR-7a-2ca"; */
+"dKR-7a-2ca.text" = "Really Instant Chat";
+
+/* Class = "UILabel"; text = "遊戲網站UI/UX設計師"; ObjectID = "e1S-pb-Eoe"; */
+"e1S-pb-Eoe.text" = "遊戲網站UI/UX設計師";
+
+/* Class = "UILabel"; text = "職務名稱"; ObjectID = "jbl-9N-uXm"; */
+"jbl-9N-uXm.text" = "職務名稱";
+
+/* Class = "UILabel"; text = "其他內容"; ObjectID = "kWR-9j-YFK"; */
+"kWR-9j-YFK.text" = "其他內容";
+
+/* Class = "UIButton"; normalTitle = "SignUP"; ObjectID = "mEl-bs-Nzk"; */
+"mEl-bs-Nzk.normalTitle" = "SignUP";
+
+/* Class = "UILabel"; text = "阿爾法數位有限公司"; ObjectID = "ml4-ys-hkL"; */
+"ml4-ys-hkL.text" = "阿爾法數位有限公司";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "p5I-kS-Gtl"; */
+"p5I-kS-Gtl.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "88888888"; ObjectID = "pVQ-aj-TIz"; */
+"pVQ-aj-TIz.text" = "88888888";
+
+/* Class = "UIButton"; normalTitle = "交談邀請"; ObjectID = "pt8-og-cmn"; */
+"pt8-og-cmn.normalTitle" = "交談邀請";
+
+/* Class = "UITextField"; text = "請選擇職務名稱"; ObjectID = "qEp-1y-A5G"; */
+"qEp-1y-A5G.text" = "請選擇職務名稱";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "toa-bt-p5k"; */
+"toa-bt-p5k.text" = "Label";
+
+/* Class = "UILabel"; text = "2.熟悉Photoshop、Illustrator、Dreamweaver軟體 \n3.熟悉HTML、CSS等網頁語法，具備JavaScript、jQuery相關經驗尤佳 \n4.負責平台相關活動網站、品牌官網、平面設計等作業 \n5.對網頁設計有熱忱有創意，根據需求設計使用者介面 \n6.瞭解使用者經驗與想法尤佳"; ObjectID = "wIa-bD-pdn"; */
+"wIa-bD-pdn.text" = "2.熟悉Photoshop、Illustrator、Dreamweaver軟體 \n3.熟悉HTML、CSS等網頁語法，具備JavaScript、jQuery相關經驗尤佳 \n4.負責平台相關活動網站、品牌官網、平面設計等作業 \n5.對網頁設計有熱忱有創意，根據需求設計使用者介面 \n6.瞭解使用者經驗與想法尤佳";
+
+/* Class = "UITextField"; text = "請選擇職務名稱"; ObjectID = "wNI-2H-OOH"; */
+"wNI-2H-OOH.text" = "請選擇職務名稱";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "xfh-w3-57y"; */
+"xfh-w3-57y.normalTitle" = "Create";
